@@ -63,8 +63,8 @@ routes['co2_kg_base'] = routes['distance_km'] * DEFAULT_FACTOR_G_PER_PKM / 1000
 
 from pathlib import Path
 base_dir = Path(__file__).resolve().parents[1]  # repo root
-bts_df = pd.read_csv(base_dir / "data" / "airline_delay_cause.csv")
-
+#bts_df = pd.read_csv(base_dir / "data" / "airline_delay_cause.csv")
+bts_df = pd.read_csv("../data/airline_delay_cause.csv")
 
 bts_df['delay_prob'] = bts_df['arr_del15'] / bts_df['arr_flights']
 bts_df = bts_df[['airport', 'carrier', 'delay_prob']]
