@@ -60,7 +60,12 @@ routes['co2_kg_base'] = routes['distance_km'] * DEFAULT_FACTOR_G_PER_PKM / 1000
 # ===========================
 # 4) BTS Arrival Delay Probabilities
 # ===========================
-bts_df = pd.read_csv("data/airline_delay_cause.csv")
+
+from pathlib import Path
+base_dir = Path(__file__).resolve().parents[1]  # repo root
+bts_df = pd.read_csv(base_dir / "data" / "airline_delay_cause.csv")
+
+
 bts_df['delay_prob'] = bts_df['arr_del15'] / bts_df['arr_flights']
 bts_df = bts_df[['airport', 'carrier', 'delay_prob']]
 
@@ -76,7 +81,8 @@ routes_demo = routes_demo.drop(columns=['airport','carrier'])
 # ===========================
 # 5) Aircraft CO₂ Factor
 # ===========================
-aircraft_ref = pd.read_csv("data/Aircraftlookup.csv")
+
+aircraft_ref = pd.read_csv(base_dir / "data" / "Aircraftlookup.csv")
 aircraft_ref['Code_str'] = aircraft_ref['Code'].astype(str).str.zfill(3)
 aircraft_co2_map = dict(zip(aircraft_ref['Code_str'], aircraft_ref['CO2']))
 
@@ -104,7 +110,9 @@ routes_demo['co2_kg'] = routes_demo['co2_kg_base'] * (routes_demo['avg_aircraft_
 # ===========================
 # 6) Filter for Active Carriers
 # ===========================
-t100 = pd.read_csv("data/t100_domestic.csv")
+
+
+t100 = pd.read_csv(base_dir / "data" / "t100_domestic.csv")
 active_routes = t100[['UNIQUE_CARRIER','ORIGIN','DEST']].drop_duplicates()
 active_routes = active_routes.rename(columns={'UNIQUE_CARRIER':'airline','ORIGIN':'source_airport','DEST':'dest_airport'})
 
