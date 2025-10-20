@@ -112,7 +112,7 @@ routes_demo['co2_kg'] = routes_demo['co2_kg_base'] * (routes_demo['avg_aircraft_
 # ===========================
 
 
-t100 = pd.read_csv(base_dir / "data" / "t100_domestic.csv")
+t100 = pd.read_csv(base_dir / "data" / "T100_domestic.csv")
 active_routes = t100[['UNIQUE_CARRIER','ORIGIN','DEST']].drop_duplicates()
 active_routes = active_routes.rename(columns={'UNIQUE_CARRIER':'airline','ORIGIN':'source_airport','DEST':'dest_airport'})
 
