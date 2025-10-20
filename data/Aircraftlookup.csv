@@ -1,448 +1,448 @@
 Code,Description,CO2
-643,1124A Westwind II,50
-723,A200-100 BD-500-1A10,50
-724,A220-300 BD-500-1A11,50
-103,Aero Commander (500/600 Series Excpt 680FL),50
-611,Aero Commander 1121,50
-7,Aero Commander 200,50
-8,Aero Macchi AL-60,50
-9,Aeronca 7-AC,50
-680,Aerospatiale Caravelle SE-210,50
-613,Aerospatiale Corvette,50
-441,Aerospatiale/Aeritalia ATR-42,50
-442,Aerospatiale/Aeritalia ATR-72,50
-875,Aerospatiale/British Aerospace Concorde,50
-325,Agusta A-119 Koala,50
-393,Agustawestland AW139,50
-370,Air Bus Euro Bo-105,50
-443,Air Tractor AT-802,50
-836,Airbus 350-1000,25
-824,Airbus A330-900neo,50
-644,Airbus Industrie A-318,50
-691,Airbus Industrie A300-600/R/CF/RCF,50
-695,Airbus Industrie A300-B2,50
-690,Airbus Industrie A300B/C/F-100/200,50
-692,Airbus Industrie A310-200C/F,50
-693,Airbus Industrie A310-300,50
-318,Airbus Industrie A318,80
-698,Airbus Industrie A319,70
-719,Airbus Industrie A319-200n,70
-694,Airbus Industrie A320-100/200,70
-722,Airbus Industrie A320-200n,30
-721,Airbus Industrie A321-200n,30
-699,Airbus Industrie A321/Lr,28
-696,Airbus Industrie A330-200,50
-343,Airbus Industrie A330-223/234,50
-687,Airbus Industrie A330-300/333,50
-689,Airbus Industrie A330-600ST (Beluga),50
-339,Airbus Industrie A330-900,50
-697,Airbus Industrie A340,50
-873,Airbus Industrie A340-200,50
-871,Airbus Industrie A340-300,60
-872,Airbus Industrie A340-500,65
-874,Airbus Industrie A340-600,70
-335,Airbus Industrie A350-1000,20
-359,Airbus Industrie A350-900,20
-882,Airbus Industrie A380-800,45
-507,Antonov 12,50
-880,Antonov 124,50
-890,Antonov 225 (6 Engine),50
-444,Antonov 24/26/32,50
-508,Antonov An-22 Freighter,50
-607,Antonov An-72/74,50
-835,Avroliner RJ85,50
-510,AW-650,50
-887,B787-800 Dreamliner,50
-889,B787-900 Dreamliner,50
-401,Beech 1300,50
-405,Beech 1900 A/B/C/D,50
-406,Beech 200 Super Kingair,50
-133,Beech 65/65A-80/65B-80 (Queen Air),50
-403,Beech 99 Airliner,50
-115,Beech AT-11,50
-24,Beech B-23 Musketeer,50
-113,Beech B-95 (Travelair),50
-117,Beech Baron (55 Series),50
-10,Beech Bonanza 35A/C/D/E/G/H/J/K/S/V/  36A,50
-105,Beech C-50 (Twin Bonanza),50
-404,Beech C99,50
-411,Beech King Air 65-A90 Queen Air,50
-111,Beech King Air 90,50
-457,Beech King Air C-90,50
-402,Beech Model 18 Turbo-Prop Conversions,50
-110,"Beechcraft Beech 18 C-185 (Federal Express has waiver to report all its small aircraft under code 110, regardless of actual aircraft type)",50
-409,Beechcraft King Air B100,50
-458,Beechcraft Super King Air,50
-345,Bell 212 Twin Two Twelve,50
-315,Bell B-206A,50
-311,Bell B-47D,50
-312,Bell B-47G,50
-313,Bell B-47G2,50
-314,Bell B-47J2,50
-366,Bell Bht 407,50
-368,Bell Bht 412,50
-20,Bellanca CH-300,50
-364,Bht 206 L4 Long Ranger,50
-362,Bht 206 Lt Long Ranger,50
-200,Boeing 377 Stratocruiser,50
-800,Boeing 707-100,50
-802,Boeing 707-100B,50
-804,Boeing 707-200,50
-806,Boeing 707-300,50
-808,Boeing 707-300B,50
-809,Boeing 707-300C,50
-810,Boeing 707-400,50
-608,Boeing 717-200,50
-812,Boeing 720-000,50
-814,Boeing 720-000B,50
-710,Boeing 727-100,50
-711,Boeing 727-100C/QC,50
-715,Boeing 727-200/231A,50
-737,Boeing 737 Max 7,50
-620,Boeing 737-100/200,50
+643,1124A Westwind II,100
+723,A200-100 BD-500-1A10,100
+724,A220-300 BD-500-1A11,100
+103,Aero Commander (500/600 Series Excpt 680FL),100
+611,Aero Commander 1121,100
+7,Aero Commander 200,100
+8,Aero Macchi AL-60,100
+9,Aeronca 7-AC,100
+680,Aerospatiale Caravelle SE-210,100
+613,Aerospatiale Corvette,100
+441,Aerospatiale/Aeritalia ATR-42,100
+442,Aerospatiale/Aeritalia ATR-72,100
+875,Aerospatiale/British Aerospace Concorde,100
+325,Agusta A-119 Koala,100
+393,Agustawestland AW139,100
+370,Air Bus Euro Bo-105,100
+443,Air Tractor AT-802,100
+836,Airbus 350-1000,85
+824,Airbus A330-900neo,100
+644,Airbus Industrie A-318,100
+691,Airbus Industrie A300-600/R/CF/RCF,100
+695,Airbus Industrie A300-B2,100
+690,Airbus Industrie A300B/C/F-100/200,100
+692,Airbus Industrie A310-200C/F,100
+693,Airbus Industrie A310-300,100
+318,Airbus Industrie A318,120
+698,Airbus Industrie A319,110
+719,Airbus Industrie A319-200n,110
+694,Airbus Industrie A320-100/200,90
+722,Airbus Industrie A320-200n,70
+721,Airbus Industrie A321-200n,70
+699,Airbus Industrie A321/Lr,75
+696,Airbus Industrie A330-200,100
+343,Airbus Industrie A330-223/234,100
+687,Airbus Industrie A330-300/333,100
+689,Airbus Industrie A330-600ST (Beluga),100
+339,Airbus Industrie A330-900,100
+697,Airbus Industrie A340,100
+873,Airbus Industrie A340-200,100
+871,Airbus Industrie A340-300,110
+872,Airbus Industrie A340-500,120
+874,Airbus Industrie A340-600,110
+335,Airbus Industrie A350-1000,80
+359,Airbus Industrie A350-900,70
+882,Airbus Industrie A380-800,90
+507,Antonov 12,100
+880,Antonov 124,100
+890,Antonov 225 (6 Engine),100
+444,Antonov 24/26/32,100
+508,Antonov An-22 Freighter,100
+607,Antonov An-72/74,100
+835,Avroliner RJ85,100
+510,AW-650,100
+887,B787-800 Dreamliner,100
+889,B787-900 Dreamliner,100
+401,Beech 1300,100
+405,Beech 1900 A/B/C/D,100
+406,Beech 200 Super Kingair,100
+133,Beech 65/65A-80/65B-80 (Queen Air),100
+403,Beech 99 Airliner,100
+115,Beech AT-11,100
+24,Beech B-23 Musketeer,100
+113,Beech B-95 (Travelair),100
+117,Beech Baron (55 Series),100
+10,Beech Bonanza 35A/C/D/E/G/H/J/K/S/V/  36A,100
+105,Beech C-50 (Twin Bonanza),100
+404,Beech C99,100
+411,Beech King Air 65-A90 Queen Air,100
+111,Beech King Air 90,100
+457,Beech King Air C-90,100
+402,Beech Model 18 Turbo-Prop Conversions,100
+110,"Beechcraft Beech 18 C-185 (Federal Express has waiver to report all its small aircraft under code 110, regardless of actual aircraft type)",100
+409,Beechcraft King Air B100,100
+458,Beechcraft Super King Air,100
+345,Bell 212 Twin Two Twelve,100
+315,Bell B-206A,100
+311,Bell B-47D,100
+312,Bell B-47G,100
+313,Bell B-47G2,100
+314,Bell B-47J2,100
+366,Bell Bht 407,100
+368,Bell Bht 412,100
+20,Bellanca CH-300,100
+364,Bht 206 L4 Long Ranger,100
+362,Bht 206 Lt Long Ranger,100
+200,Boeing 377 Stratocruiser,100
+800,Boeing 707-100,100
+802,Boeing 707-100B,100
+804,Boeing 707-200,100
+806,Boeing 707-300,100
+808,Boeing 707-300B,100
+809,Boeing 707-300C,100
+810,Boeing 707-400,100
+608,Boeing 717-200,100
+812,Boeing 720-000,100
+814,Boeing 720-000B,100
+710,Boeing 727-100,100
+711,Boeing 727-100C/QC,100
+715,Boeing 727-200/231A,100
+737,Boeing 737 Max 7,100
+620,Boeing 737-100/200,100
 621,Boeing 737-200C,60
-619,Boeing 737-300,50
-618,Boeing 737-300LR,50
-617,Boeing 737-400,50
-615,Boeing 737-5/600LR,50
-616,Boeing 737-500,50
-633,Boeing 737-600,50
-612,Boeing 737-700/700LR/Max 7,50
-614,Boeing 737-800,50
-634,Boeing 737-900,50
-888,Boeing 737-900ER,50
-816,Boeing 747-100,50
-817,Boeing 747-200/300,50
-823,Boeing 747-200F,50
-819,Boeing 747-400,50
-820,Boeing 747-400F,50
-818,Boeing 747C,50
-822,Boeing 747SP,50
-622,Boeing 757-200,50
-623,Boeing 757-300,50
-625,Boeing 767-200/ER/EM,50
-626,Boeing 767-300/300ER,50
-624,Boeing 767-400/ER,50
+619,Boeing 737-300,100
+618,Boeing 737-300LR,100
+617,Boeing 737-400,100
+615,Boeing 737-5/600LR,100
+616,Boeing 737-500,100
+633,Boeing 737-600,100
+612,Boeing 737-700/700LR/Max 7,100
+614,Boeing 737-800,100
+634,Boeing 737-900,100
+888,Boeing 737-900ER,100
+816,Boeing 747-100,100
+817,Boeing 747-200/300,100
+823,Boeing 747-200F,100
+819,Boeing 747-400,100
+820,Boeing 747-400F,100
+818,Boeing 747C,100
+822,Boeing 747SP,100
+622,Boeing 757-200,100
+623,Boeing 757-300,100
+625,Boeing 767-200/ER/EM,100
+626,Boeing 767-300/300ER,100
+624,Boeing 767-400/ER,100
 627,Boeing 777-200ER/200LR/233LR,30
 637,Boeing 777-300/300ER/333ER,40
 837,Boeing 787-10 Dreamliner,20
 838,Boeing B737 Max 800,45
 839,Boeing B737 Max 900,35
 885,Boeing B737-Max10,35
-821,Boeing B747-8,50
-683,Boeing B777-F,50
-320,Boeing Vertol BV-107,50
-321,Boeing Vertol BV-44,50
-330,Boelkow Bo-105c,50
-515,Bomardier Challenger 350,50
-659,Bombardier (Gates) Learjet 60,50
-609,Bombardier BD-100-1A10 Challenger 300,50
-658,Bombardier BD-700 Global Express,50
+821,Boeing B747-8,100
+683,Boeing B777-F,100
+320,Boeing Vertol BV-107,100
+321,Boeing Vertol BV-44,100
+330,Boelkow Bo-105c,100
+515,Bomardier Challenger 350,100
+659,Bombardier (Gates) Learjet 60,100
+609,Bombardier BD-100-1A10 Challenger 300,100
+658,Bombardier BD-700 Global Express,100
 720,Bombardier C Series Cs100,20
-669,Bombardier Challenger 604/605,50
-777,Bombardier Challenger 850,50
-767,Bombardier CRJ 1000 X,50
-657,Bombardier CRJ 705,50
-530,Bombardier CRJ550,50
-688,Bombardier Global 5000,50
-788,Bombardier Global 6000/Global Xrs,50
-716,Bombardier Global 6500,50
-751,Bombardier Global 7500 BD-7500,50
-575,Bombardier Learjet 75,50
-322,Brantley B-2,50
-407,British Aerospace (Hawker-Siddeley) BAe-748,50
-605,British Aerospace BAC-111-200,50
-610,British Aerospace BAC-111-400,50
-866,British Aerospace BAe-146-100/RJ70,50
-867,British Aerospace BAe-146-200,50
-868,British Aerospace BAe-146-300,50
-408,British Aerospace BAe-ATP,50
-469,British Aerospace Jetstream 31,50
-471,British Aerospace Jetstream 41,50
-130,C-28 5ACF PBY,50
-132,C-28 5ACF-PBY-EMQ,50
-668,Canadair (Bombardier) Challlenger 601,50
-520,Canadair CL-44D,50
-652,Canadair CL-600 Challenger,50
-638,Canadair CRJ 900,50
-628,Canadair RJ-100/RJ-100ER,50
-629,Canadair RJ-200ER /RJ-440,50
-631,Canadair RJ-700,50
-488,Carstedt CJ-600A,50
-413,Casa 235,50
-412,Casa/Nurtanio C212 Aviocar,50
-29,Cessna 150/152,50
-36,Cessna 172 Skyhawk,50
-38,Cessna 177 Cardinal,50
-30,Cessna 180,50
-31,Cessna 180A/B,50
-32,Cessna 180C/D/E/F,50
-39,Cessna 182 Skylane,50
-33,Cessna 185A/B/C Skywagon,50
-37,Cessna 195,50
-41,Cessna 205,50
-416,Cessna 208 Caravan,50
-128,Cessna 404,50
-417,Cessna 406 Caravan II,50
-685,Cessna 510 Mustang/560XL Citation Excel,50
-122,Cessna C-310 Series,50
-166,Cessna C-336,50
-148,Cessna C-337 (Super Sky Master),50
-123,Cessna C-340/335,50
-149,Cessna C-401,50
-125,Cessna C-402/402A/402B,50
-152,Cessna C-411,50
-121,Cessna C-421,50
-418,Cessna C-441,50
-35,Cessna C206/207/209/210 Stationair,50
-415,Cessna C208B/Grand Caravan,50
-653,Cessna CE-680 Citation Sovereign,50
-636,Cessna Citation II/ Bravo,50
-646,Cessna Citation X Model 650/550B/550XL,50
-647,Cessna Citation X Model CE750 X,50
-639,Cessna Citationjet/CJ1/CJ2/CJ3,50
-421,Cessna Skycourier 408,50
-120,Cessna T-50 (Bobcat),50
-825,Convair 880 (CV-22/22m),50
-830,Convair 990 Coronado (CV-30),50
-140,Convair CV-240,50
-143,Convair CV-340/440,50
-420,Convair CV-540,50
-430,Convair CV-580,50
-435,Convair CV-600,50
-440,Convair CV-640,50
-445,Convair CV-660,50
-150,Curtiss C46/20t/A/D/F/R Commando,50
-774,Dassault Falcon 2000,50
-682,Dassault Falcon 2000EX/2000lxs,50
-771,Dassault Falcon 50,50
-775,Dassault Falcon 7X,50
-725,Dassault Falcon 8x,50
-770,Dassault Falcon 900/900EX,50
-776,Dassault Falcon Aviation 6x,50
-681,Dassault-Breguet Mystere-Falcon,50
-205,De Havilland DH-114 Heron,50
-40,De Havilland DHC2 Beaver,50
-42,De Havilland DHC3 Otter,50
-153,De Havilland DHC4 Caribou,50
-570,De Havilland DHC7 Dash-7,50
-483,De Havilland DHC8-100 Dash-8,50
-491,De Havilland DHC8-200Q Dash-8,50
-484,De Havilland DHC8-300 Dash 8,50
-482,De Havilland DHC8-400 Dash-8,50
-174,De Havilland Dove DH-104,50
-485,De Havilland Twin Otter DHC-6,50
-395,DHC-6-400 Twin Otter,50
-448,Dornier 228,50
-449,Dornier 328,50
-632,Dornier 328 Jet,50
-161,Dornier Do-28 Skyservant,50
-746,Emb500 Phenom 100/300,50
-678,Embraer 190,50
-464,Embraer EMB-110 Bandeirante,50
-461,Embraer EMB-120 Brasilia,50
-748,Embraer EMB195,50
-673,Embraer ERJ-175,50
-745,Embraer Legacy 500,50
-755,Embraer Legacy 600,50
-833,Embraer Legacy 650,50
-754,Embraer Praetor 600,50
-674,Embraer-135,50
-676,Embraer-140,50
-675,Embraer-145,50
-677,Embraer-Emb-170,50
-340,Eurocompter AS350 B2 AStar,50
-167,Fairchild C-82A,50
-455,Fairchild Metro 23,50
-323,Fairchild-Hiller FH-1100,50
-454,Fairchild-Hiller FH-227,50
-93,Float/Amphib Piston-450+ Hp,50
-92,Float/Amphib Piston-Lt 450 Hp,50
-91,Float/Amphib Turbine,50
-603,Fokker 100,50
-452,Fokker 50,50
-604,Fokker 70,50
-601,Fokker F28-1000 Fellowship,50
-602,Fokker F28-4000/6000 Fellowship,50
-450,Fokker Friendship F-27/Fairchild F-27/A/B/F/J,50
-660,Gates Learjet Lear-23,50
-661,Gates Learjet Lear-24,50
-662,Gates Learjet Lear-25,50
-663,Gates Learjet Lear-31/35/36,50
-26,Gipps Aero Ga8 Airvan,50
-104,Grand Commander 680FL,50
-679,Grumman G-1159 Gulfstream II/III,50
-170,Grumman G-21A (Goose),50
-460,Grumman G-21G (Turbo-Goose),50
-172,Grumman G-44/44A (Widgeon),50
-173,Grumman G-73 (Mallard),50
-171,Grumman SA-16A-GR (Albatross),50
-641,Gulfstream Aerospace G-III/G-IV,50
-749,Gulfstream Aerospace G500,50
-501,Gulfstream Aerospace G500C,50
-752,Gulfstream Aerospace Gulfstream G280,50
-753,Gulfstream Aerospace Gulfstream G600,50
-651,Gulfstream G150,50
-648,Gulfstream G200,50
-671,Gulfstream G450,50
-750,Gulfstream G650,50
-778,Gulfstream G700,50
-470,Gulfstream I,50
-473,Gulfstream I-Commander,50
-667,Gulfstream III/V/ G-V Exec/ G-5/550,50
-159,Hamilton B-18s Little Liner (Converted),50
-468,Handley Page Jetstream,50
-495,Hawker Beechcraft Hawker 4000,50
-665,Hawker Siddeley 125,50
-474,Hawker Siddeley 748,50
-34,Helio H-250/295/395,50
-664,HFB-320 Hansa,50
-891,Honda Ha-420 Hondajet,50
-50,Howard DGA-15P,50
-317,Hu-1h 204B,50
-350,Hughes 300,50
-355,Hughes-500/530,50
-881,Ilyushiin Il-96-400t,50
-876,Ilyushin 62,50
-877,Ilyushin 76/TD,50
-878,Ilyushin 86,50
-879,Ilyushin 96,50
-541,Ilyushin Il-18,50
-44,Lake LA-4,50
-96,Land-Piston-450+ Hp,50
-95,Land-Piston-Lt 450 Hp,50
-94,Land-Turbine,50
-666,Lear 55,50
-686,Learjet45,50
-870,Lockheed Jetstar,50
-240,Lockheed L-049,50
-760,Lockheed L-1011-1/100/200,50
-765,Lockheed L-1011-500 Tristar,50
-247,Lockheed L-1049,50
-248,Lockheed L-1049C/D/E,50
-252,Lockheed L-1049G/H,50
-175,Lockheed L-12A/L-10/10A,50
-258,Lockheed L-1649A,50
-550,Lockheed L-188A/C Electra,50
-552,Lockheed L-382B,50
-242,Lockheed L-649,50
-244,Lockheed L-749/749A,50
-553,Lockheed L100-10 Hercules,50
-555,Lockheed L100-20 Hercules,50
-556,Lockheed L100-30/L-382E,50
-180,Martin 202/202A,50
-185,Martin 404,50
-730,McDonnell Douglas DC-10-10,50
-731,McDonnell Douglas DC-10-20,50
-732,McDonnell Douglas DC-10-30,50
-735,McDonnell Douglas DC-10-30CF,50
-733,McDonnell Douglas DC-10-40,50
-158,McDonnell Douglas DC-2,50
-160,"McDonnell Douglas DC-3/A/C,C-47/B",50
-210,McDonnell Douglas DC-4(C54/C54A/C54B/C54E),50
-216,McDonnell Douglas DC-6,50
-218,McDonnell Douglas DC-6A,50
-220,McDonnell Douglas DC-6B,50
-225,McDonnell Douglas DC-7A/B,50
-228,McDonnell Douglas DC-7C,50
-840,McDonnell Douglas DC-8-10,50
-842,McDonnell Douglas DC-8-20,50
-844,McDonnell Douglas DC-8-30,50
-846,McDonnell Douglas DC-8-40,50
-848,McDonnell Douglas DC-8-50,50
-850,McDonnell Douglas DC-8-50F,50
-851,McDonnell Douglas DC-8-61,50
-854,McDonnell Douglas DC-8-62,50
-856,McDonnell Douglas DC-8-63,50
-852,McDonnell Douglas DC-8-63F,50
-860,McDonnell Douglas DC-8-71,50
-862,McDonnell Douglas DC-8-72,50
-864,McDonnell Douglas DC-8-73,50
-865,McDonnell Douglas DC-8-73F,50
-630,McDonnell Douglas DC-9-10,50
-635,McDonnell Douglas DC-9-15F,50
-640,McDonnell Douglas DC-9-30,50
-645,McDonnell Douglas DC-9-40,50
-650,McDonnell Douglas DC-9-50,50
-655,McDonnell Douglas DC9 Super 80/MD81/82/83/88,50
-654,McDonnell Douglas DC9 Super 87,50
-740,McDonnell Douglas MD-11,50
-656,McDonnell Douglas MD-90,50
-463,Mitsubishi MU-2/B,50
-477,Mohawk 298,50
-52,Mooney M-20C/E/G,50
-51,Mooney M-21,50
-717,Mrj-70/Std/ER/Lr,50
-718,Mrj-90/Std/Sr/Lr,50
-465,Nihon YS-11,50
-65,Noorduyn UC-64AS,50
-475,Nord 262,50
-102,P2012 Traveler,50
-425,Piaggio P180 Avanti,50
-131,Pilatus Britten-Norman BN2/A Islander,50
-201,Pilatus Britten-Norman BN2A Trislander,50
-479,Pilatus PC-12,50
-70,Pilatus Porter PC6,50
-71,Pilatus Porter PC6/350,50
-480,Pilatus Turbo Porter PC-6A,50
-481,Pilatus Turbo Porter PC-6B,50
-86,Piper PA-12 (Supercruiser),50
-81,Piper PA-14 (Family-Cruiser),50
-80,Piper PA-18 (Super-Cub),50
-82,Piper PA-22 (Tri-Pacer),50
-190,Piper PA-23-250 (Aztec/Apache),50
-83,Piper PA-24 (Comanche),50
-84,Piper PA-28 (Cherokee),50
-476,Piper PA-30/31T Cheyenne II XL,50
-194,Piper PA-31 (Navajo)/T-1020,50
-79,Piper PA-32 (Cherokee 6),50
-195,Piper PA-34/39 (Twin Commanche),50
-193,Piper T-1020,50
-478,Piper T-1040,50
-451,Pipistrel D O O Virus Sw 121c,50
-422,Quest Kodiak 100,50
-437,Raytheon Beechcraft Baron B-58,50
-642,Raytheon Beechcraft Hawker 400XP,50
-684,Raytheon Beechcraft Hawker 800XP,50
-672,Raytheon Beechcraft Hawker 900XP,50
-606,Raytheon Beechraft 390 Premier I,50
-434,Raytheon King Air A100,50
-360,Robinson R44,50
-670,Rockwell Sabreliner,50
-410,Rockwell Turbo-Commander 680-W/690,50
-432,Saab 2000,50
-459,Saab-Fairchild 340/A,50
-456,Saab-Fairchild 340/B,50
-487,Shorts 330,50
-489,Shorts 360,50
-560,Shorts Belfast Freighter-Sh5,50
-486,Shorts Harland SC-7 Skyvan,50
-380,Sikorsky S-51,50
-381,Sikorsky S-55,50
-385,Sikorsky S-58A/B/C,50
-387,Sikorsky S-61,50
-388,Sikorsky S-61L,50
-386,Sikorsky S-61N,50
-389,Sikorsky S-62/A,50
-390,Sikorsky S-76,50
-280,Sikorsky VS-44A (Amphibian),50
-433,Socata TBM-700,50
-431,Socata TBM850,50
-98,Stinson 0-299 Hp,50
-97,Stinson F.W. 300-450 Hp,50
-88,Stinson SR-10E Bushman,50
-85,Stinson SR-9,50
-87,Stinson V-77,50
-303,Sud Alouette,50
-714,Sukhoi Superjet 100,50
-466,Swearingen Metro II,50
-467,Swearingen Metro III,50
-462,Swearingen Metro Merlin,50
-780,Tupolev TU-154,50
-649,Tupolev TU-204-300,50
-999,Used for capturing expenses not attributed to specific aircraft types,50
-580,Vickers Viscount 700/744/745/745D,50
-584,Vickers Viscount V800/810/812,50
-490,Volpar Turbo 18,50
-396,Westland SR-N5 (Acv),50
-792,Yakolev Yak-42,50
+669,Bombardier Challenger 604/605,100
+777,Bombardier Challenger 850,100
+767,Bombardier CRJ 1000 X,100
+657,Bombardier CRJ 705,100
+530,Bombardier CRJ550,100
+688,Bombardier Global 5000,100
+788,Bombardier Global 6000/Global Xrs,100
+716,Bombardier Global 6500,100
+751,Bombardier Global 7500 BD-7500,100
+575,Bombardier Learjet 75,100
+322,Brantley B-2,100
+407,British Aerospace (Hawker-Siddeley) BAe-748,100
+605,British Aerospace BAC-111-200,100
+610,British Aerospace BAC-111-400,100
+866,British Aerospace BAe-146-100/RJ70,100
+867,British Aerospace BAe-146-200,100
+868,British Aerospace BAe-146-300,100
+408,British Aerospace BAe-ATP,100
+469,British Aerospace Jetstream 31,100
+471,British Aerospace Jetstream 41,100
+130,C-28 5ACF PBY,100
+132,C-28 5ACF-PBY-EMQ,100
+668,Canadair (Bombardier) Challlenger 601,100
+520,Canadair CL-44D,100
+652,Canadair CL-600 Challenger,100
+638,Canadair CRJ 900,100
+628,Canadair RJ-100/RJ-100ER,100
+629,Canadair RJ-200ER /RJ-440,100
+631,Canadair RJ-700,100
+488,Carstedt CJ-600A,100
+413,Casa 235,100
+412,Casa/Nurtanio C212 Aviocar,100
+29,Cessna 150/152,100
+36,Cessna 172 Skyhawk,100
+38,Cessna 177 Cardinal,100
+30,Cessna 180,100
+31,Cessna 180A/B,100
+32,Cessna 180C/D/E/F,100
+39,Cessna 182 Skylane,100
+33,Cessna 185A/B/C Skywagon,100
+37,Cessna 195,100
+41,Cessna 205,100
+416,Cessna 208 Caravan,100
+128,Cessna 404,100
+417,Cessna 406 Caravan II,100
+685,Cessna 510 Mustang/560XL Citation Excel,100
+122,Cessna C-310 Series,100
+166,Cessna C-336,100
+148,Cessna C-337 (Super Sky Master),100
+123,Cessna C-340/335,100
+149,Cessna C-401,100
+125,Cessna C-402/402A/402B,100
+152,Cessna C-411,100
+121,Cessna C-421,100
+418,Cessna C-441,100
+35,Cessna C206/207/209/210 Stationair,100
+415,Cessna C208B/Grand Caravan,100
+653,Cessna CE-680 Citation Sovereign,100
+636,Cessna Citation II/ Bravo,100
+646,Cessna Citation X Model 650/550B/550XL,100
+647,Cessna Citation X Model CE750 X,100
+639,Cessna Citationjet/CJ1/CJ2/CJ3,100
+421,Cessna Skycourier 408,100
+120,Cessna T-50 (Bobcat),100
+825,Convair 880 (CV-22/22m),100
+830,Convair 990 Coronado (CV-30),100
+140,Convair CV-240,100
+143,Convair CV-340/440,100
+420,Convair CV-540,100
+430,Convair CV-580,100
+435,Convair CV-600,100
+440,Convair CV-640,100
+445,Convair CV-660,100
+150,Curtiss C46/20t/A/D/F/R Commando,100
+774,Dassault Falcon 2000,100
+682,Dassault Falcon 2000EX/2000lxs,100
+771,Dassault Falcon 50,100
+775,Dassault Falcon 7X,100
+725,Dassault Falcon 8x,100
+770,Dassault Falcon 900/900EX,100
+776,Dassault Falcon Aviation 6x,100
+681,Dassault-Breguet Mystere-Falcon,100
+205,De Havilland DH-114 Heron,100
+40,De Havilland DHC2 Beaver,100
+42,De Havilland DHC3 Otter,100
+153,De Havilland DHC4 Caribou,100
+570,De Havilland DHC7 Dash-7,100
+483,De Havilland DHC8-100 Dash-8,100
+491,De Havilland DHC8-200Q Dash-8,100
+484,De Havilland DHC8-300 Dash 8,100
+482,De Havilland DHC8-400 Dash-8,100
+174,De Havilland Dove DH-104,100
+485,De Havilland Twin Otter DHC-6,100
+395,DHC-6-400 Twin Otter,100
+448,Dornier 228,100
+449,Dornier 328,100
+632,Dornier 328 Jet,100
+161,Dornier Do-28 Skyservant,100
+746,Emb500 Phenom 100/300,100
+678,Embraer 190,100
+464,Embraer EMB-110 Bandeirante,100
+461,Embraer EMB-120 Brasilia,100
+748,Embraer EMB195,100
+673,Embraer ERJ-175,100
+745,Embraer Legacy 500,100
+755,Embraer Legacy 600,100
+833,Embraer Legacy 650,100
+754,Embraer Praetor 600,100
+674,Embraer-135,100
+676,Embraer-140,100
+675,Embraer-145,100
+677,Embraer-Emb-170,100
+340,Eurocompter AS350 B2 AStar,100
+167,Fairchild C-82A,100
+455,Fairchild Metro 23,100
+323,Fairchild-Hiller FH-1100,100
+454,Fairchild-Hiller FH-227,100
+93,Float/Amphib Piston-450+ Hp,100
+92,Float/Amphib Piston-Lt 450 Hp,100
+91,Float/Amphib Turbine,100
+603,Fokker 100,100
+452,Fokker 50,100
+604,Fokker 70,100
+601,Fokker F28-1000 Fellowship,100
+602,Fokker F28-4000/6000 Fellowship,100
+450,Fokker Friendship F-27/Fairchild F-27/A/B/F/J,100
+660,Gates Learjet Lear-23,100
+661,Gates Learjet Lear-24,100
+662,Gates Learjet Lear-25,100
+663,Gates Learjet Lear-31/35/36,100
+26,Gipps Aero Ga8 Airvan,100
+104,Grand Commander 680FL,100
+679,Grumman G-1159 Gulfstream II/III,100
+170,Grumman G-21A (Goose),100
+460,Grumman G-21G (Turbo-Goose),100
+172,Grumman G-44/44A (Widgeon),100
+173,Grumman G-73 (Mallard),100
+171,Grumman SA-16A-GR (Albatross),100
+641,Gulfstream Aerospace G-III/G-IV,100
+749,Gulfstream Aerospace G500,100
+501,Gulfstream Aerospace G500C,100
+752,Gulfstream Aerospace Gulfstream G280,100
+753,Gulfstream Aerospace Gulfstream G600,100
+651,Gulfstream G150,100
+648,Gulfstream G200,100
+671,Gulfstream G450,100
+750,Gulfstream G650,100
+778,Gulfstream G700,100
+470,Gulfstream I,100
+473,Gulfstream I-Commander,100
+667,Gulfstream III/V/ G-V Exec/ G-5/550,100
+159,Hamilton B-18s Little Liner (Converted),100
+468,Handley Page Jetstream,100
+495,Hawker Beechcraft Hawker 4000,100
+665,Hawker Siddeley 125,100
+474,Hawker Siddeley 748,100
+34,Helio H-250/295/395,100
+664,HFB-320 Hansa,100
+891,Honda Ha-420 Hondajet,100
+50,Howard DGA-15P,100
+317,Hu-1h 204B,100
+350,Hughes 300,100
+355,Hughes-500/530,100
+881,Ilyushiin Il-96-400t,100
+876,Ilyushin 62,100
+877,Ilyushin 76/TD,100
+878,Ilyushin 86,100
+879,Ilyushin 96,100
+541,Ilyushin Il-18,100
+44,Lake LA-4,100
+96,Land-Piston-450+ Hp,100
+95,Land-Piston-Lt 450 Hp,100
+94,Land-Turbine,100
+666,Lear 55,100
+686,Learjet45,100
+870,Lockheed Jetstar,100
+240,Lockheed L-049,100
+760,Lockheed L-1011-1/100/200,100
+765,Lockheed L-1011-500 Tristar,100
+247,Lockheed L-1049,100
+248,Lockheed L-1049C/D/E,100
+252,Lockheed L-1049G/H,100
+175,Lockheed L-12A/L-10/10A,100
+258,Lockheed L-1649A,100
+550,Lockheed L-188A/C Electra,100
+552,Lockheed L-382B,100
+242,Lockheed L-649,100
+244,Lockheed L-749/749A,100
+553,Lockheed L100-10 Hercules,100
+555,Lockheed L100-20 Hercules,100
+556,Lockheed L100-30/L-382E,100
+180,Martin 202/202A,100
+185,Martin 404,100
+730,McDonnell Douglas DC-10-10,100
+731,McDonnell Douglas DC-10-20,100
+732,McDonnell Douglas DC-10-30,100
+735,McDonnell Douglas DC-10-30CF,100
+733,McDonnell Douglas DC-10-40,100
+158,McDonnell Douglas DC-2,100
+160,"McDonnell Douglas DC-3/A/C,C-47/B",100
+210,McDonnell Douglas DC-4(C54/C54A/C54B/C54E),100
+216,McDonnell Douglas DC-6,100
+218,McDonnell Douglas DC-6A,100
+220,McDonnell Douglas DC-6B,100
+225,McDonnell Douglas DC-7A/B,100
+228,McDonnell Douglas DC-7C,100
+840,McDonnell Douglas DC-8-10,100
+842,McDonnell Douglas DC-8-20,100
+844,McDonnell Douglas DC-8-30,100
+846,McDonnell Douglas DC-8-40,100
+848,McDonnell Douglas DC-8-50,100
+850,McDonnell Douglas DC-8-50F,100
+851,McDonnell Douglas DC-8-61,100
+854,McDonnell Douglas DC-8-62,100
+856,McDonnell Douglas DC-8-63,100
+852,McDonnell Douglas DC-8-63F,100
+860,McDonnell Douglas DC-8-71,100
+862,McDonnell Douglas DC-8-72,100
+864,McDonnell Douglas DC-8-73,100
+865,McDonnell Douglas DC-8-73F,100
+630,McDonnell Douglas DC-9-10,100
+635,McDonnell Douglas DC-9-15F,100
+640,McDonnell Douglas DC-9-30,100
+645,McDonnell Douglas DC-9-40,100
+650,McDonnell Douglas DC-9-50,100
+655,McDonnell Douglas DC9 Super 80/MD81/82/83/88,100
+654,McDonnell Douglas DC9 Super 87,100
+740,McDonnell Douglas MD-11,100
+656,McDonnell Douglas MD-90,100
+463,Mitsubishi MU-2/B,100
+477,Mohawk 298,100
+52,Mooney M-20C/E/G,100
+51,Mooney M-21,100
+717,Mrj-70/Std/ER/Lr,100
+718,Mrj-90/Std/Sr/Lr,100
+465,Nihon YS-11,100
+65,Noorduyn UC-64AS,100
+475,Nord 262,100
+102,P2012 Traveler,100
+425,Piaggio P180 Avanti,100
+131,Pilatus Britten-Norman BN2/A Islander,100
+201,Pilatus Britten-Norman BN2A Trislander,100
+479,Pilatus PC-12,100
+70,Pilatus Porter PC6,100
+71,Pilatus Porter PC6/350,100
+480,Pilatus Turbo Porter PC-6A,100
+481,Pilatus Turbo Porter PC-6B,100
+86,Piper PA-12 (Supercruiser),100
+81,Piper PA-14 (Family-Cruiser),100
+80,Piper PA-18 (Super-Cub),100
+82,Piper PA-22 (Tri-Pacer),100
+190,Piper PA-23-250 (Aztec/Apache),100
+83,Piper PA-24 (Comanche),100
+84,Piper PA-28 (Cherokee),100
+476,Piper PA-30/31T Cheyenne II XL,100
+194,Piper PA-31 (Navajo)/T-1020,100
+79,Piper PA-32 (Cherokee 6),100
+195,Piper PA-34/39 (Twin Commanche),100
+193,Piper T-1020,100
+478,Piper T-1040,100
+451,Pipistrel D O O Virus Sw 121c,100
+422,Quest Kodiak 100,100
+437,Raytheon Beechcraft Baron B-58,100
+642,Raytheon Beechcraft Hawker 400XP,100
+684,Raytheon Beechcraft Hawker 800XP,100
+672,Raytheon Beechcraft Hawker 900XP,100
+606,Raytheon Beechraft 390 Premier I,100
+434,Raytheon King Air A100,100
+360,Robinson R44,100
+670,Rockwell Sabreliner,100
+410,Rockwell Turbo-Commander 680-W/690,100
+432,Saab 2000,100
+459,Saab-Fairchild 340/A,100
+456,Saab-Fairchild 340/B,100
+487,Shorts 330,100
+489,Shorts 360,100
+560,Shorts Belfast Freighter-Sh5,100
+486,Shorts Harland SC-7 Skyvan,100
+380,Sikorsky S-51,100
+381,Sikorsky S-55,100
+385,Sikorsky S-58A/B/C,100
+387,Sikorsky S-61,100
+388,Sikorsky S-61L,100
+386,Sikorsky S-61N,100
+389,Sikorsky S-62/A,100
+390,Sikorsky S-76,100
+280,Sikorsky VS-44A (Amphibian),100
+433,Socata TBM-700,100
+431,Socata TBM850,100
+98,Stinson 0-299 Hp,100
+97,Stinson F.W. 300-450 Hp,100
+88,Stinson SR-10E Bushman,100
+85,Stinson SR-9,100
+87,Stinson V-77,100
+303,Sud Alouette,100
+714,Sukhoi Superjet 100,100
+466,Swearingen Metro II,100
+467,Swearingen Metro III,100
+462,Swearingen Metro Merlin,100
+780,Tupolev TU-154,100
+649,Tupolev TU-204-300,100
+999,Used for capturing expenses not attributed to specific aircraft types,100
+580,Vickers Viscount 700/744/745/745D,100
+584,Vickers Viscount V800/810/812,100
+490,Volpar Turbo 18,100
+396,Westland SR-N5 (Acv),100
+792,Yakolev Yak-42,100
