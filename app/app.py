@@ -60,7 +60,7 @@ routes['co2_kg_base'] = routes['distance_km'] * DEFAULT_FACTOR_G_PER_PKM / 1000
 # ===========================
 # 4) BTS Arrival Delay Probabilities
 # ===========================
-bts_df = pd.read_csv(r"C:\Users\gregr\sustainable-flight-advisor\data\airline_delay_cause.csv")
+bts_df = pd.read_csv("data/airline_delay_cause.csv")
 bts_df['delay_prob'] = bts_df['arr_del15'] / bts_df['arr_flights']
 bts_df = bts_df[['airport', 'carrier', 'delay_prob']]
 
@@ -74,9 +74,9 @@ routes_demo['delay_prob'] = routes_demo['delay_prob'].fillna(0.1)
 routes_demo = routes_demo.drop(columns=['airport','carrier'])
 
 # ===========================
-# 5) Aircraft CO₂ Factor (Weighted by Carrier-Origin)
+# 5) Aircraft CO₂ Factor
 # ===========================
-aircraft_ref = pd.read_csv(r"C:\Users\gregr\sustainable-flight-advisor\data\Aircraftlookup.csv")
+aircraft_ref = pd.read_csv("data/Aircraftlookup.csv")
 aircraft_ref['Code_str'] = aircraft_ref['Code'].astype(str).str.zfill(3)
 aircraft_co2_map = dict(zip(aircraft_ref['Code_str'], aircraft_ref['CO2']))
 
@@ -89,26 +89,22 @@ def map_aircraft_co2(equip_str):
 
 routes_demo['aircraft_CO2_factor'] = routes_demo['equipment'].apply(map_aircraft_co2)
 
-# --- Average aircraft CO₂ by (airline, source_airport)
+# Average aircraft CO₂ by (airline, source_airport)
 carrier_city_avg = (
     routes_demo.groupby(['airline','source_airport'], as_index=False)['aircraft_CO2_factor']
     .mean()
     .rename(columns={'aircraft_CO2_factor':'avg_aircraft_CO2_factor'})
 )
 
-# Merge back to routes
 routes_demo = routes_demo.merge(carrier_city_avg, on=['airline','source_airport'], how='left')
-
-# Fallback for missing values
 routes_demo['avg_aircraft_CO2_factor'] = routes_demo['avg_aircraft_CO2_factor'].fillna(50)
 
-# Adjust base CO₂
 routes_demo['co2_kg'] = routes_demo['co2_kg_base'] * (routes_demo['avg_aircraft_CO2_factor'] / 50)
 
 # ===========================
 # 6) Filter for Active Carriers
 # ===========================
-t100 = pd.read_csv(r"C:\Users\gregr\sustainable-flight-advisor\data\t100_domestic.csv")
+t100 = pd.read_csv("data/t100_domestic.csv")
 active_routes = t100[['UNIQUE_CARRIER','ORIGIN','DEST']].drop_duplicates()
 active_routes = active_routes.rename(columns={'UNIQUE_CARRIER':'airline','ORIGIN':'source_airport','DEST':'dest_airport'})
 
